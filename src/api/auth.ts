@@ -1,7 +1,6 @@
 import { IncomingHttpHeaders } from "http";
 import { describe, expect, test } from "vitest";
 
-
 export function getAPIKey(headers: IncomingHttpHeaders): string | null {
   const authHeader = headers["authorization"];
   if (!authHeader) {
