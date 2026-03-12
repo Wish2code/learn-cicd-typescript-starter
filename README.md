@@ -1,5 +1,5 @@
 # Tests
-![Dynamic badge of tests](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+![Dynamic badge of tests](https://github.com/Wish2code/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-typescript-starter (Notely)
 
