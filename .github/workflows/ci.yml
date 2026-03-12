@@ -42,3 +42,6 @@ jobs:
 
       - name: formatting test
         run: npm run format:check
+
+      - name: linting test
+        run: npm run lint
